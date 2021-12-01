@@ -43,7 +43,7 @@ Sample screenshots
 
 Engine:
 ![alt text](https://github.com/haxxorsid/distributed-twitter-clone/blob/main/screenshots/img1.jpg "-")
-![alt text](https://github.com/haxxorsid/distributed-twitter-clone/blob/main/screenshots/img21.jpg "-")
+![alt text](https://github.com/haxxorsid/distributed-twitter-clone/blob/main/screenshots/img2.jpg "-")
 
 Client:
 ![alt text](https://github.com/haxxorsid/distributed-twitter-clone/blob/main/screenshots/img3.jpg "-")
