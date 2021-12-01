@@ -5,7 +5,7 @@ Distributed simulation of twitter.
 
 Engine:
 
-`dotnet fsi Server.fsx"`
+`dotnet fsi Server.fsx`
 
 Client:
 
